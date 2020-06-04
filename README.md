@@ -8,7 +8,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 ![Posts](images/posts.png)
 
 3. Click ![Create New File](images/create_new_file.png) and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
-4. Your file should include 2 things:
+4. Add your file content in the white box under the _Edit new File_ tab. Your file should include 2 things:
 
    1. A response to one of the following prompts
       * This summer I'm looking forward to...
@@ -32,6 +32,10 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
       ```
 
       A sample post is available for reference in the **__posts_** folder titled [2020-06-03-sample.md](https://github.com/armstronge975/ECLDP_Prodev_Session/blob/master/_posts/2020-06-03-sample.md).
+
+*HINT:* You can click the **Preview** tab to see if your post is formatted correctly before committing it.
+
+![Preview](images/Preview.png)
 
 5. Click ![Commit new File](images/create_new_file.png) to add the new file to your repository.
 6. Select the _Pull Requests_ tab at the top.
