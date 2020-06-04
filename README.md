@@ -37,7 +37,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 
 ![Preview](images/Preview.png)
 
-5. Click ![Commit new File](images/create_new_file.png) to add the new file to your repository.
+5. Click ![Commit new File](images/commit_new_file.png) to add the new file to your repository.
 6. Select the _Pull Requests_ tab at the top.
 
 ![tab](images/pull_request_tab.png)
@@ -84,7 +84,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 
       A sample post is available for reference in the **__posts_** folder titled [2020-06-03-sample.md](https://github.com/armstronge975/ECLDP_Prodev_Session/blob/master/_posts/2020-06-03-sample.md).
     
-5. Click ![Commit new File](images/create_new_file.png) to add the new file to your repository.
+5. Click ![Commit new File](images/commit_new_file.png) to add the new file to your repository.
 6. Select the _Pull Requests_ tab at the top.
 
 ![tab](images/pull_request_tab.png)
