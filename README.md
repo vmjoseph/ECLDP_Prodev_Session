@@ -4,6 +4,9 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 ### Instructions for Breakout Group A:
 1. Click the ![Fork](images/fork.png) button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
 2. Click on the **__posts_** folder.
+
+![Posts](images/posts.png)
+
 3. Click ![Create New File](images/create_new_file.png) and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
 4. Your file should include 2 things:
 
