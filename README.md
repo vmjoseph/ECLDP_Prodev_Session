@@ -33,7 +33,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 
       A sample post is available for reference in the **__posts_** folder titled [2020-06-03-sample.md](https://github.com/armstronge975/ECLDP_Prodev_Session/blob/master/_posts/2020-06-03-sample.md).
 
-*HINT:* You can click the **Preview** tab to see if your post is formatted correctly before committing it.
+      *HINT:* Use the **Preview** tab to see if your post is formatted correctly before committing it.
 
 ![Preview](images/Preview.png)
 
