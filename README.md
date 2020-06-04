@@ -1,7 +1,7 @@
 # ECLDP_Prodev_Session
 A Demo Repo for the hands-on session participants to practice their sick new skills
 
-Instructions for Breakout Group A:
+### Instructions for Breakout Group A:
 1. Click the **_Fork_** button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
 2. Click on the **__posts_** folder.
 3. Click *__Create New File__* and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
