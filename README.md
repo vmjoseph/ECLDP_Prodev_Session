@@ -15,20 +15,20 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
       * _Make your own prompt if you're feeling creative!_
    2. A picture related to your response. Find an image online and copy the link to include in the text.
 
-Use this format to create your post (feel free to copy-and-paste):
-```markdown
----
-title: the prompt of your choice e.g. "This summer I'm looking forward to..."
-author: your name here
-date: 2020-06-05
----
+      Use this format to create your post (feel free to copy-and-paste):
+      ```markdown
+      ---
+      title: the prompt of your choice e.g. "This summer I'm looking forward to..."
+      author: your name here
+      date: 2020-06-05
+      ---
 
-your response e.g. being at the beach and soaking up the sun!
+      your response e.g. being at the beach and soaking up the sun!
 
-![picture title](picture URL)
-```
+      ![picture title](picture URL)
+      ```
 
-A sample post is available for reference in the **__posts_** folder titled _2020-06-03-sample.md_.
+      A sample post is available for reference in the **__posts_** folder titled _2020-06-03-sample.md_.
 
 5. Click _Commit new File_ to add the new file to your repository.
 6. Select the _Code_ tab at the top to go back.
