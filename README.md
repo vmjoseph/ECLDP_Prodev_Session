@@ -4,7 +4,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 Instructions for Breakout Group A:
 1. Click the **_Fork_** button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
 2. Click on the **__posts_** folder.
-3. Click *__Create New File__* and name your new file following this format: _2020_06_05-name.md_ replacing _name_ with your first name.
+3. Click *__Create New File__* and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
 4. Your file should include 2 things:
 
    1. A response to one of the following prompts
@@ -35,3 +35,4 @@ A sample post is available for reference in the **__posts_** folder titled _2020
 7. Click **_New Pull Request_** .
 8. Look over your changes and click **_Create Pull Request_**.
 9. Once the pull request is approved, you can see your post [here](https://armstronge975.github.io/ECLDP_Prodev_Session/) (it might take several minutes for the post to appear).
+10. Enjoy the posts submitted by everyone else!
