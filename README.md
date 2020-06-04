@@ -34,5 +34,5 @@ A sample post is available for reference in the **__posts_** folder titled _2020
 6. Select the _Code_ tab at the top to go back.
 7. Click **_New Pull Request_** .
 8. Look over your changes and click **_Create Pull Request_**.
-9. Once the pull request is approved, you can see your post [here](https://armstronge975.github.io/ECLDP_Prodev_Session/) (it might take several minutes for the post to appear).
+9. Once the pull request is approved and merged, you can see your post [here](https://armstronge975.github.io/ECLDP_Prodev_Session/) (it might take several minutes for the post to appear).
 10. Enjoy the posts submitted by everyone else!
