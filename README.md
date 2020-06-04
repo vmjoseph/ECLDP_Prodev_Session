@@ -2,9 +2,9 @@
 A Demo Repo for the hands-on session participants to practice their sick new skills
 
 ### Instructions for Breakout Group A:
-1. Click the **_Fork_** button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
+1. Click the ![Fork](images/fork.png) button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
 2. Click on the **__posts_** folder.
-3. Click *__Create New File__* and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
+3. Click ![Create New File](images/create_new_file.png) and name your new file following this format: _2020-06-05-name.md_ replacing _name_ with your first name.
 4. Your file should include 2 things:
 
    1. A response to one of the following prompts
@@ -28,12 +28,15 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
       ![picture title](picture URL)
       ```
 
-      A sample post is available for reference in the **__posts_** folder titled _2020-06-03-sample.md_.
+      A sample post is available for reference in the **__posts_** folder titled [2020-06-03-sample.md](https://github.com/armstronge975/ECLDP_Prodev_Session/blob/master/_posts/2020-06-03-sample.md).
 
-5. Click _Commit new File_ to add the new file to your repository.
-6. Select the _Code_ tab at the top to go back.
-7. Click **_New Pull Request_** .
-8. Look over your changes and click **_Create Pull Request_**.
+5. Click ![Commit new File](images/create_new_file.png) to add the new file to your repository.
+6. Select the _Pull Requests_ tab at the top.
+
+![tab](images/pull_request_tab.png)
+
+7. Click ![New Pull Request](images/new_pull_request.PNG).
+8. Look over your changes and click ![Create Pull Request](images/create_pull_request.PNG).
 9. Once the pull request is approved and merged, you can see your post [here](https://armstronge975.github.io/ECLDP_Prodev_Session/) (it might take several minutes for the post to appear).
 10. Enjoy the posts submitted by everyone else!
 
