@@ -1,5 +1,7 @@
 # ECLDP_Prodev_Session
-A Demo Repo for the hands-on session participants to practice their sick new skills
+
+### Overview:
+You will apply your knowledge from the learning lab to create a content-filled site. Using the instructions below, create a new post for a [blog site](https://armstronge975.github.io/ECLDP_Prodev_Session/) and merge that post into the main repository using a pull request. Although you will work alone for this activity, everyone's content will come together in this single page. :smile:
 
 ### Instructions for Breakout Group A:
 1. Click the ![Fork](images/fork.png) button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
