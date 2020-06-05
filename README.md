@@ -98,7 +98,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 2.. Find another pull request with _"Group B"_ in the title and open it
 3. Go to the **_Files changed_** tab. Try to avoid a file that has an existing comment from another person.
 
-![Files Changed](images/files_changed.png)
+      ![Files Changed](images/files_changed.png)
 
 4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](/diff.PNG) 
 4. Find the line that says _"Comment your reply here"_ and click the blue **+** button that appears next to it.
