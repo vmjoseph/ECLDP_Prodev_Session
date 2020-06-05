@@ -102,7 +102,7 @@ You will apply your knowledge from the learning lab to create a content-filled s
 
       ![Files Changed](images/files_changed.png)
 
-4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](/diff.PNG) 
+4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](images/diff.PNG) 
 4. Find the line that says _"Comment your reply here"_ and click the blue **+** button that appears next to it.
 5. Press _Ctrl + G_ to bring up the suggestion syntax and replace the line with your comment. Get creative with your reply and include a picture or a GIF! Just Be sure to include your name e.g. Emily replied "I love the beach too!"
 6. To submit the review, select **_Start a review_** then select **_Finish your review_** and **_Submit review_**
