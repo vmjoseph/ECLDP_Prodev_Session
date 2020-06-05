@@ -97,7 +97,7 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 1. Return to the [main repository](https://github.com/armstronge975/ECLDP_Prodev_Session) and view the **_Pull Requests_** tab
 2.. Find another pull request with _"Group B"_ in the title and open it
 3. Go to the **_Files changed_** tab. Try to avoid a file that has an existing comment from another person.
-4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](/diff.PNG) 
+4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](images/diff.PNG) 
 4. Find the line that says _"Comment your reply here"_ and click the blue **+** button that appears next to it.
 5. Press _Ctrl + G_ to bring up the suggestion syntax and replace the line with your comment. Get creative with your reply and include a picture or a GIF! Just Be sure to include your name e.g. Emily replied "I love the beach too!"
 6. To submit the review, select **_Start a review_** then select **_Finish your review_** and **_Submit review_**
