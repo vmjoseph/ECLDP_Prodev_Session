@@ -1,5 +1,7 @@
 # ECLDP_Prodev_Session
-A Demo Repo for the hands-on session participants to practice their sick new skills
+
+### Overview:
+You will apply your knowledge from the learning lab to create a content-filled site. Using the instructions below, create a new post for a [blog site](https://armstronge975.github.io/ECLDP_Prodev_Session/) and merge that post into the main repository using a pull request. Although you will work alone for this activity, everyone's content will come together in this single page. :smile:
 
 ### Instructions for Breakout Group A:
 1. Click the ![Fork](images/fork.png) button in the upper-right hand corner of the page. You'll be directed to a copy of this repository on your GitHub account.
@@ -97,6 +99,9 @@ A Demo Repo for the hands-on session participants to practice their sick new ski
 1. Return to the [main repository](https://github.com/armstronge975/ECLDP_Prodev_Session) and view the **_Pull Requests_** tab
 2.. Find another pull request with _"Group B"_ in the title and open it
 3. Go to the **_Files changed_** tab. Try to avoid a file that has an existing comment from another person.
+
+      ![Files Changed](images/files_changed.png)
+
 4. You can toggle between the markdown syntax and the post preview to see text and images using this: ![diff](images/diff.PNG) 
 4. Find the line that says _"Comment your reply here"_ and click the blue **+** button that appears next to it.
 5. Press _Ctrl + G_ to bring up the suggestion syntax and replace the line with your comment. Get creative with your reply and include a picture or a GIF! Just Be sure to include your name e.g. Emily replied "I love the beach too!"
